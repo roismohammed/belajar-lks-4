@@ -33,7 +33,7 @@ export default function Create() {
         <Guest title={'Product'} subTitle={'Tambah Product'}>
             <form onSubmit={handleSubmit}>
                 <div className="row">
-                    <h2 className=' bg-primary text-white p-1 rounded-2'>Tambah Product</h2>
+                    <h2 className=' bg-primary xt-white p-1 rounded-2'>Tambah Product</h2>
                     <div className="col-md-4">
                         <div className="input-group">
                             <div className="input-group-text"><RiAddBoxFill /></div>
